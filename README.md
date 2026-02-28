@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning java, springboot and AWS
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me: Just message me here or reach out to any social media handle @iamankurray
-- ⚡ Fun fact: I gratuated in BA(P) - Sanskrit but working as a software engineer in Back End development.
+- ⚡ Fun fact: I gratuated in BA(P) - Sanskrit but working as a software engineer as Back End development.
